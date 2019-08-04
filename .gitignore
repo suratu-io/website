@@ -1,0 +1,16 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+# IDEs and Code editors
+.idea
+.vscode
+.sublime_project
